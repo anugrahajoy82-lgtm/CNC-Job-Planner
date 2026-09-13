@@ -1,4 +1,4 @@
-# AI-Based CNC Job Planning and Machining Time Estimation System
+# CNC Job Planning and Machining Time Estimator
 
 A modern, software-based web application for CNC workshop operators to plan machining jobs, calculate real-time estimates for machining time, material usage, machine cost, and total job cost, compare parameters against historical records via Smart Estimation, and generate printable PDF work order reports.
 
